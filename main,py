@@ -1,0 +1,5 @@
+# poetry config virtualenvs.in-project true
+import telebot
+
+
+
